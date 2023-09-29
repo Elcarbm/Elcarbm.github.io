@@ -1,0 +1,20 @@
+body{
+    background: #ebaca2 ;
+    display: inline;
+    
+}
+h1{
+    text-decoration: underline;
+   
+    
+}
+div {
+    width: 300px;
+    margin: auto;
+    border: 3px ;
+  }
+  a{
+    color: black;
+   
+    font-weight: bold;
+  }
